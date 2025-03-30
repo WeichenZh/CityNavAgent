@@ -26,7 +26,7 @@ ______________________________________________________________________
 
 ## AirVLN-E Dataset
 
-The annotations of the enriched AirVLN-E dataset can be downloaded [here](https://drive.google.com/drive/folders/1CKSavijr67U8jKMg_kpYNKKs9Nk_bmg1?usp=sharing). 
+The annotations of the enriched AirVLN-E dataset can be downloaded [here](https://drive.google.com/drive/folders/1gfnC64NlrFxotAq3Z5Q_-a_UOIOQ-OCD?usp=sharing). 
 The simulator can be downloaded from [AirVLN](https://github.com/AirVLN/AirVLN/tree/main)
 
 ______________________________________________________________________
