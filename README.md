@@ -74,4 +74,4 @@ ______________________________________________________________________
 
 ## 🙏 Acknowledgement
 
-We have used code snippets from different repositories, especially from: AirVLN, VELMA and LM_NAV. We would like to acknowledge and thank the authors of these repositories for their excellent work.
+We have used code snippets from different repositories, especially from: AirVLN, LM_NAV, GroundingDino, and SAM. We would like to acknowledge and thank the authors of these repositories for their excellent work.
