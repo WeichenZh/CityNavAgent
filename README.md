@@ -19,7 +19,7 @@ Extensive benchmark experiments show that our method achieves state-of-the-art p
 ______________________________________________________________________
 
 ## 📢 News
-- **Mar-30-2025**- CityNavAgent dataset/demo code updated! 🔥
+- **Mar-30-2025**- CityNavAgent dataset/code updated! 🔥
 - **Mar-15-2025**- CityNavAgent dataset released! 🔥
 - **Feb-24-2025**- CityNavAgent repo initialized! 
 ______________________________________________________________________
