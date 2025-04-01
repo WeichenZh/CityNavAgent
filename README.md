@@ -3,7 +3,7 @@ Official repo for "CityNavAgent: Aerial Vision-and-Language Navigation with Hier
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](CODE_LICENSE)
 [![Model License](https://img.shields.io/badge/Model%20License-Apache_2.0-green.svg)](MODEL_LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
 ______________________________________________________________________
 
